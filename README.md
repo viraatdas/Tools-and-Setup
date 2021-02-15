@@ -23,5 +23,5 @@ Dotfiles and other accessbility tools I regularly. This is my MacOS setup.
         - AI based code completion
 2. [Typora](https://typora.io/)
     - Markdown editor that allows inline LaTeX
-    - Highly underrated
+
 
