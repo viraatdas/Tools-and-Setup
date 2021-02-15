@@ -1,2 +1,2 @@
-# Tools-and-Setup
-Tools and setup that I regularly use (continuously evolving) 
+# Tools and Setup
+Dotfiles and other accessbility tools I regularly use
