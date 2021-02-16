@@ -24,4 +24,5 @@ Dotfiles and other accessbility tools I regularly. This is my MacOS setup.
 2. [Typora](https://typora.io/)
     - Markdown editor that allows inline LaTeX
 
-
+### CLI Tools
+1. [delete-cli](https://github.com/glentner/delete-cli)
